@@ -5,4 +5,8 @@
 - **Issued on**: 17 Sep 2025  
 - **Verification**: [skillsbuild.skillsnetwork.site/certificates/3fb2f650a67a45c598634ba5b72b2df7](https://courses.skillsbuild.skillsnetwork.site/certificates/3fb2f650a67a45c598634ba5b72b2df7)  
 
-📄 PDF: `IBM DB0101EN Certificate _ IBM SkillsBuild.pdf`
+---
+
+📄 **Certificat :**
+
+![Certificat SQL](./IBM%20DB0101EN%20Certificate%20_%20IBM%20SkillsBuild.pdf)
