@@ -1,11 +1,12 @@
 # Introduction to Cloud Computing (CC0101EN) — Certificate
 
-- **Issued to**: Florian Chereau  
-- **Issuer**: IBM SkillsBuild  
-- **Course link**: https://skillsbuild.skillsnetwork.site/courses/course-v1:IBMDeveloperSkillsNetwork+CC0101EN+v1
+- **Issued to**: Florian Chereau
+- **Issuer**: IBM SkillsBuild
+- **Issued on**: 19 Sep 2025
+- **Verification**: https://courses.skillsbuild.skillsnetwork.site/certificates/9caec634ef594e9aa1099e5625e4a584
 
-> **Status:** Pending — add the PDF later at `./assets/pdf/cloud-intro.pdf`.
+---
 
-<!-- When ready, add the preview:
+📄 **Certificat (aperçu cliquable)**
+
 [![Cloud Intro](./assets/img/cloud-intro.png)](./assets/pdf/cloud-intro.pdf)
--->

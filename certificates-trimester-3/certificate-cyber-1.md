@@ -1,11 +1,12 @@
 # Cybersecurity Fundamentals — Certificate
 
-- **Issued to**: Florian Chereau  
-- **Issuer**: IBM / SkillsBuild  
-- **Access / Verify**: https://sb-auth.skillsbuild.org/login?clientid=yl-internal-adopter&learningpath=https%3A%2F%2Fskills.yourlearning.ibm.com%2F&redirecturi=https%3A%2F%2Fskills.yourlearning.ibm.com%2Foauth%2Fcallback&referer=skills.yourlearning.ibm.com&responsetype=code&scope=openid+email
+- **Issued to**: Florian Chereau
+- **Issuer**: IBM SkillsBuild
+- **Issued on**: 19 Sep 2025
+- **Verification**: https://www.credly.com/badges/7997f961-3462-4912-a895-4b97c66c5d28
 
-> **Status:** Pending — add the PDF later at `./assets/pdf/cyber-fundamentals-1.pdf`.
+---
 
-<!-- When ready, add the preview:
-[![Cyber Fundamentals](./assets/img/cyber-fundamentals-1.png)](./assets/pdf/cyber-fundamentals-1.pdf)
--->
+📄 **Certificat (aperçu cliquable)**
+
+[![Cyber Fundamentals](./assets/img/cyber-fundamentals.png)](./assets/pdf/cyber-fundamentals.pdf)
